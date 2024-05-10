@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+                <g transform="matrix(1 0 0 1 540 540)" id="d808ec1c-4d2b-4e83-8b9d-750b086beae2"></g>
+                <g transform="matrix(1 0 0 1 540 540)" id="94ddb875-1993-48a9-b968-c2af80f49f06">
+                    <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+                </g>
+                <g transform="matrix(1 0 0 1 540 540)">
+                    <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+                </g>
+                <g transform="matrix(1.35 0 0 1.35 574.77 673.52)">
+                    <path style="stroke: rgb(0,0,0); stroke-opacity: 0; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(10,0,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-259.22, -207.37)" d="M 259.217 152.65 L 271.313 262.097 L 247.12 262.097 L 259.217 152.65 Z" stroke-linecap="round" />
+                </g>
+                <g transform="matrix(1.32 0.28 -0.28 1.32 574.78 601.7)">
+                    <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x="-68.55" y="-2.59" rx="0" ry="0" width="137.1" height="5.18" />
+                </g>
+
+                <g transform="matrix(0 1.01 -1.01 0 659.96 618.29)">
+                    <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+
+                <g transform="matrix(0 1.01 -1.01 0 488.15 585.59)">
+                    <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+                <g transform="matrix(0.72 0 0 0.72 701.3 416.68)">
+                <path style="stroke: rgb(0,0,0); stroke-opacity: 0; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,255,56); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-259.22, -207.37)" d="M 259.217 152.65 L 271.313 262.097 L 247.12 262.097 L 259.217 152.65 Z" stroke-linecap="round" />
+                </g>
+                <g transform="matrix(0.71 0.11 -0.11 0.71 701.3 378.26)">
+                <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x="-68.55" y="-2.59" rx="0" ry="0" width="137.1" height="5.18" />
+                </g>
+                <g transform="matrix(0 0.54 -0.54 0 750.01 384.37)">
+                <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+                <g transform="matrix(0 0.54 -0.54 0 653.19 371.72)">
+                    <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+                <g transform="matrix(1.09 0 0 1.09 412.17 416.17)">
+                <path style="stroke: rgb(0,0,0); stroke-opacity: 0; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,221); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-259.22, -207.37)" d="M 259.217 152.65 L 271.313 262.097 L 247.12 262.097 L 259.217 152.65 Z" stroke-linecap="round" />
+                </g>
+                <g transform="matrix(1.08 0.14 -0.14 1.08 412.17 358.29)">
+                <rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" x="-68.55" y="-2.59" rx="0" ry="0" width="137.1" height="5.18" />
+                </g>
+                <g transform="matrix(0 0.81 -0.81 0 484.08 368.92)">
+                    <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+                <g transform="matrix(0 0.81 -0.81 0 338.21 349.22)">
+                    <polygon style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-opacity: 0.11; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" points="0,38.19 -33.03,11.18 -20.31,-31.01 20.31,-31.01 33.03,11.18 ">
+                    <animateTransform type="rotate" additive="sum" attributeName="transform" values="0;360" begin="0s" dur="3s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1" />
+                    </polygon>
+                    <line x1="0" y1="0" x2="0" y2="38.19" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="-20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="20.31" y2="-31.01" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                    <line x1="0" y1="0" x2="33.03" y2="11.18" style="stroke:rgb(0,0,0);stroke-width:1">
+                    <animateTransform type="rotate" attributeName="transform" attributeType="XML" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                    </line>
+                </g>
+</svg>
